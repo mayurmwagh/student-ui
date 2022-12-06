@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Employee Registration Form - Shubham mayur </h1>
+	<h1>Employee Registration Form - Shubham TOken </h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
