@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Employee Registration Form - juber Dev </h1>
+	<h1>Employee Registration Form - Cdec b1 & b2 </h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
